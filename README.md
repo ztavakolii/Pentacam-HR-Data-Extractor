@@ -15,7 +15,6 @@ This repository is part of an **ongoing clinical research project** conducted at
 Medical Image & Signal Processing Research Center (MISP), Isfahan University of 
 Medical Sciences, in collaboration with the Ophthalmology Department of Feiz 
 Hospital, Isfahan.
-<img width="1200" height="740" alt="belin" src="https://github.com/user-attachments/assets/cda71c74-1d29-4d41-bba4-7fe75a70d088" />
 
 ---
 
