@@ -11,19 +11,11 @@
 
 ---
 
-## ⚠️ Research in Progress
-
 This repository is part of an **ongoing clinical research project** conducted at the 
 Medical Image & Signal Processing Research Center (MISP), Isfahan University of 
 Medical Sciences, in collaboration with the Ophthalmology Department of Feiz 
 Hospital, Isfahan.
-
-**The research has not yet been completed or published.** To protect the scientific 
-novelty of the work, certain methodological details (specific model architectures, 
-label definitions, feature engineering strategies, and analysis outcomes) are 
-intentionally **not disclosed** in this repository. What is shared here is the 
-data-engineering backbone — the part of the pipeline that the community can benefit 
-from and that documents a genuinely non-trivial engineering effort.
+<img width="1200" height="740" alt="belin" src="https://github.com/user-attachments/assets/cda71c74-1d29-4d41-bba4-7fe75a70d088" />
 
 ---
 
@@ -308,7 +300,7 @@ If you find this pipeline useful in your own work, please cite it as:
 @misc{tavakoli_pentacam_extractor,
   author       = {Tavakoli, Zahra},
   title        = {Pentacam HR — Automated Batch Data Extraction Pipeline},
-  howpublished = {\url{}},
+  howpublished = {\url{https://github.com/ztavakolii/Pentacam-HR-Data-Extractor}},
   year         = {2025},
   note         = {Research tool developed at MISP, Isfahan University of Medical Sciences}
 }
@@ -321,4 +313,22 @@ If you find this pipeline useful in your own work, please cite it as:
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) 
 file for details.
+
+
+<img width="600" height="600" alt="unnamed_1" src="https://github.com/user-attachments/assets/73056eee-d602-4c69-bfd1-2e00d5ec4079" />
+<img width="1200" height="740" alt="posterior" src="https://github.com/user-attachments/assets/0817a18c-6b7f-4db9-904e-435b537d6256" />
+
+<img width="1200" height="740" alt="belin" src="https://github.com/user-attachments/assets/d85dec00-5a7b-4855-a5fb-0421fba3753d" />
+<img width="1200" height="740" alt="kc-staging" src="https://github.com/user-attachments/assets/f67c653d-1fa5-4f2f-982f-935078a358c5" />
+<img width="1200" height="740" alt="4map" src="https://github.com/user-attachments/assets/060fa216-8893-4928-b4ce-e1a773893e19" />
+
+
+
+
+
+
+
+
+
+
 
